@@ -175,7 +175,7 @@ NIDS/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/sudeep-sah/NIDS.git
+git clone https://github.com/shoaib-prog/AI-Powered-Explainable-IDS.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
@@ -225,3 +225,10 @@ This project is inspired by modern research in:
 # 📜 License
 
 This project is developed for educational and research purposes.
+
+## 👥 Team Members
+
+- Mohammed Shoaib P A
+- Phusam Nawaz Sarif
+- Sudeep Sah
+- Syed Razee Ahmad
