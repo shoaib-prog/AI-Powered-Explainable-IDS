@@ -181,7 +181,7 @@ git clone https://github.com/shoaib-prog/AI-Powered-Explainable-IDS.git
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd NIDS
+cd IDS
 ```
 
 ## 3️⃣ Install Dependencies
