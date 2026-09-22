@@ -230,5 +230,5 @@ This project is developed for educational and research purposes.
 
 - Mohammed Shoaib P A
 - Phusam Nawaz Sarif
-- Sudeep Sah
+- Sudeep Kumar Sah
 - Syed Razee Ahmad
